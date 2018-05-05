@@ -1,0 +1,6 @@
+database:
+ username: postgres
+ password: KSmaya33
+ host: localhost
+ port: 5432
+ databaseName: scouts_db
